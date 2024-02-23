@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture
+vahb_master
+!s110 1655582903
+!i10b 1
+!s100 ceC_VR[lBX`Db1CJI?_GC3
+IA@GTEdjI:0M_hB<kE1eJ30
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1655578799
+8E:\AMRITA COLLEGE\Courses\ONLINE INTERNSHIP\VLSI Design Internship\AHB-APB architecture\ahb_master.v
+FE:\AMRITA COLLEGE\Courses\ONLINE INTERNSHIP\VLSI Design Internship\AHB-APB architecture\ahb_master.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1655582903.000000
+!s107 E:\AMRITA COLLEGE\Courses\ONLINE INTERNSHIP\VLSI Design Internship\AHB-APB architecture\ahb_master.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\AMRITA COLLEGE\Courses\ONLINE INTERNSHIP\VLSI Design Internship\AHB-APB architecture\ahb_master.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vahb_master_interface
+!s110 1655641989
+!i10b 1
+!s100 Rdn`664OLWSLEKYT[?dI]2
+IDVUo8RGY=GETFTF=lOmhT1
+R1
+R0
+w1655641985
+8E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/ahb_master.v
+FE:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/ahb_master.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655641989.000000
+!s107 E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/ahb_master.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/ahb_master.v|
+!i113 1
+R3
+R4
+vahb_slave_interface
+!s110 1655613738
+!i10b 1
+!s100 2J2BoDzOT0W0Rm5[B0>U_0
+IWo@44eIlUZc@AILomD1=Q3
+R1
+R0
+w1655613735
+Z5 8E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/ahb_slave_interface.v
+Z6 FE:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/ahb_slave_interface.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655613738.000000
+!s107 E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/ahb_slave_interface.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/ahb_slave_interface.v|
+!i113 1
+R3
+R4
+vahbslave
+!s110 1655645073
+!i10b 1
+!s100 fo;dC[:ljUo3n[BJBG;]S0
+I038P[[Fb:KM:A^J__X<]<3
+R1
+R0
+w1655644929
+R5
+R6
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655645073.000000
+!s107 E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/ahb_slave_interface.v|
+R7
+!i113 1
+R3
+R4
+vapb_controller
+!s110 1655642037
+!i10b 1
+!s100 ^FfT?H46a36j>4E]XaY_31
+Ie2PzIVlZ6SG8d<NKoecaC0
+R1
+R0
+w1655642026
+8E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/apb_controller.v
+FE:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/apb_controller.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655642037.000000
+!s107 E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/apb_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/apb_controller.v|
+!i113 1
+R3
+R4
+vapb_interface
+!s110 1655642076
+!i10b 1
+!s100 V4f2_W:eQPT<eNF]U6MgR3
+I<d3_JZ>aGSznH?dDPlz]R3
+R1
+R0
+w1655642073
+8E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/apb_interface.v
+FE:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/apb_interface.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655642076.000000
+!s107 E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/apb_interface.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/apb_interface.v|
+!i113 1
+R3
+R4
+vbridge_top
+!s110 1655642216
+!i10b 1
+!s100 RcGbW^K5X7RX6:L1`_CS53
+IB_;8Kj]B;dK=8lgb@iaXR3
+R1
+R0
+w1655642197
+8E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/bridge_top.v
+FE:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/bridge_top.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655642216.000000
+!s107 E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/bridge_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/bridge_top.v|
+!i113 1
+R3
+R4
+vtop_mod
+!s110 1655642268
+!i10b 1
+!s100 UW^gjS1X>R=kZlG876FbO0
+IChPZZlTQQTZY3^@cXM_dh3
+R1
+R0
+w1655642260
+8E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/top.v
+FE:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/top.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655642268.000000
+!s107 E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/AMRITA COLLEGE/Courses/ONLINE INTERNSHIP/VLSI Design Internship/AHB-APB architecture/top.v|
+!i113 1
+R3
+R4
